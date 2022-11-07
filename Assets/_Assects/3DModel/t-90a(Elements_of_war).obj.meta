@@ -3,7 +3,82 @@ guid: 2b4ef1c1d13067747af84bf715fb9ed8
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_01Mat
+    second: {fileID: 2100000, guid: 591036217d2c49b4eabde65587f42d8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_02Mat
+    second: {fileID: 2100000, guid: 21c040ca1f0569b4f85857b2aefb2c37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1244Mat
+    second: {fileID: 2100000, guid: 95adb5db780b4c848808dc3f58c95f80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1245Mat
+    second: {fileID: 2100000, guid: 18d82932053840d4bac196ce07aed991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1251Mat
+    second: {fileID: 2100000, guid: b2178d2195cfaad4692d80bd68a0ce07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1252Mat
+    second: {fileID: 2100000, guid: 6ca54dc258e89564aa25f8a8734a7d3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1301Mat
+    second: {fileID: 2100000, guid: 7f11ed6b9e089da4f88d8a538c0577b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1303Mat
+    second: {fileID: 2100000, guid: d02517cee6310e74daed14e090ab6f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1304Mat
+    second: {fileID: 2100000, guid: 08cee630e82ecba4d9c78eef7c832be8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1305Mat
+    second: {fileID: 2100000, guid: b36f407de20836247adc1b90740aedd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1306Mat
+    second: {fileID: 2100000, guid: 2daf9fab9410fbf458b82af5b9248438, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1308Mat
+    second: {fileID: 2100000, guid: 62ed087e99d122b4dbd843436713eccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1309Mat
+    second: {fileID: 2100000, guid: b38e038026081e1429dbcd600e9127ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1310Mat
+    second: {fileID: 2100000, guid: 17697f026bce05545b53f93deb80d48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DrawCall_1311Mat
+    second: {fileID: 2100000, guid: a8089af9fa5f7084fb00b498eaca81ef, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
