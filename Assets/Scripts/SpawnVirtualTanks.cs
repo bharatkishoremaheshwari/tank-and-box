@@ -22,7 +22,7 @@ public class SpawnVirtualTanks : MonoBehaviour
     // TODO: Improve using Object Pooling
     public void SpawnVTanks()
     {
-        int tankNum = Random.Range(0, Tanks.Count-1);
+        int tankNum = Random.Range(0, Tanks.Count);
         Vector3 position = new Vector3(Random.Range(-1.5f, 1.5f) , 0.001f  , Random.Range(-1.5f, 1.5f) );
         GameObject tankInit = Instantiate(Tanks[tankNum], position, Quaternion.identity, tankParentGO);
     }
